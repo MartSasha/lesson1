@@ -1,4 +1,4 @@
-my_string=input('Добрый день, меня зовут ')
+my_string=input()
 print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
